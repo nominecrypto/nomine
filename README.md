@@ -1,4 +1,4 @@
-# <img src="https://github.com/ugo-bp/nomine/blob/main/images/nomine-ico1.png" /> <p>nomine (n$)</p>
+# <img src="https://github.com/nominecrypto/nomine/blob/main/images/nomine-ico1.png" /> <p>nomine (n$)</p>
 
 <b>CryptoToken for cashless payments</b>
 
